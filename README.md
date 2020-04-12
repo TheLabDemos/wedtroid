@@ -1,7 +1,6 @@
 Wedtroid / The Lab & Quadra
 ===========================
-This demo was released at the ReAct 2003 demoparty in patras, and won 3rd place
-in the demo competition.
+A wedtro written in 2003 for the wedding of a friend and fellow demoscener: cybernoid.
 
 ![screenshot](http://nuclear.mutantstargoat.com/sw/demos/shots/wedtroid-thumb.jpg)
 
